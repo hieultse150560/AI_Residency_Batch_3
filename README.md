@@ -1,7 +1,7 @@
 # AI_Residency_Batch_3
-Fine-Grained Image Classification Task
+Fine-Grained Image Classification Task on FGVC-Aircraft Dataset.
 
-Name: LÊ TRUNG HIẾU
+Name: Lê Trung Hiếu
 
 Email: hieultse150560@fpt.edu.vn
 
