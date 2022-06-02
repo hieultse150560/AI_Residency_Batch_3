@@ -1,7 +1,4 @@
-# AI_Residency_Batch-3_Fine-Grained Image Classification Task on FGVC-Aircraft Dataset.
-
-Name: Lê Trung Hiếu
-
-Email: hieultse150560@fpt.edu.vn
-
-Phone: 0833155778
+# Fine-Grained Image Classification Task on FGVC-Aircraft Dataset.
+This is a project on round 3 of FPT Residency Program Batch 3 for doing Fine-Grained Image Classification.
+* Research and propose a simple method achieving good result.
+* Using LaTex to present the proposed strategy.
