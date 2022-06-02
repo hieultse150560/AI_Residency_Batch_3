@@ -1,5 +1,4 @@
-# AI_Residency_Batch_3
-# Fine-Grained Image Classification Task on FGVC-Aircraft Dataset.
+# AI_Residency_Batch-3_Fine-Grained Image Classification Task on FGVC-Aircraft Dataset.
 
 Name: Lê Trung Hiếu
 
