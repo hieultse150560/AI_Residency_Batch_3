@@ -1,6 +1,6 @@
 # Fine-Grained Image Classification Task on FGVC-Aircraft Dataset.
 This is a project on round 3 of FPT Residency Program Batch 3 for doing Fine-Grained Image Classification.
-* Research and propose a simple method for achieving good result on FGVC-Aircraft Dataset.
+* Research and propose a new simple method for this task.
 * Using LaTex for representing the strategy.
 ## Model
 You can find the model in the .ipynb file
